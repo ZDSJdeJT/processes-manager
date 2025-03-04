@@ -1,7 +1,7 @@
 {
   "name": "processes-manager",
   "private": true,
-  "author": "Echo",
+  "author": "Echo <zdsjdejt@qq.com>",
   "version": "0.1.0",
   "type": "module",
   "scripts": {
