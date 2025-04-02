@@ -8,4 +8,4 @@ This template should help get you started developing with Tauri, React and Types
 
 ## Screenshots
 
-![Play](/screenshots/play.gif?raw=true&sanitize=true 'Play')
+![Play](/screenshots/play.gif?raw=true&sanitize=true)
